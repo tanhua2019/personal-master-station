@@ -1,1 +1,0 @@
-import{_ as e,o as r,a as c}from"./index.86bb2f32.js";const o={},s={class:"error"};function t(a,n){return r(),c("div",s,"404 \u5F88\u62B1\u6B49\uFF0C\u4F60\u8BBF\u95EE\u7684\u9875\u9762\u627E\u4E0D\u5230\u4E86")}var d=e(o,[["render",t]]);export{d as default};
